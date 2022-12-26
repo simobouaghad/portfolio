@@ -242,7 +242,7 @@ nav ul li a:hover {
 }
 
 .card {
-    width: 30%;
+    width: 45%;
     background-color: var(--bgColor2);
     border-radius: 20px;
     padding: 1.3rem 2rem;
